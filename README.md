@@ -5,7 +5,7 @@
 Hello! I am **Javier Manotas Ruiz**, a computer engineering student at the University of A Coruña.
 My main hobby is programming.
 I develop video games for the Play Store account **JHandSoft**. You can find them [here](https://play.google.com/store/search?q=JHandSoft&c=apps&hl=es).
-Despite of working with OOP most of the time, I love functional programming (Ocaml, F#, Erlang...).
+Despite of working with OOP most of the time, I love functional programming (Ocaml, F#...).
 
 ## About this repository
 
