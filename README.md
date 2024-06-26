@@ -1,3 +1,5 @@
+![](rect1.png)
+
 # Welcome to my GitHub repository
 
 ## About me
