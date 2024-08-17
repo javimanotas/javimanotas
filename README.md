@@ -1,1 +1,1 @@
-![](factal.png)
+![](mandelbrot.png)
